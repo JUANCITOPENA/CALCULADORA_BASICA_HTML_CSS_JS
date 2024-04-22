@@ -29,12 +29,18 @@ Puedes clonar el repositorio para explorar el código y experimentar con tus pro
 git clone https://github.com/tu_usuario/calculadora-basica.git
 
 ## Compartir y Contribuir
+
 Te animamos a compartir este proyecto con tus amigos y colegas. Si deseas contribuir, puedes hacer un fork del repositorio y enviar pull requests con tus mejoras o correcciones. ¡Nos encantaría ver tus contribuciones!
 
 ## Licencia
+
 Este proyecto está bajo la Licencia MIT, lo que significa que puedes usar, modificar y distribuir el código libremente. Para más detalles, consulta el archivo LICENSE.
 
-✔  No olvides suscribirte, compartir, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí  y me ayudas a seguir creando contenido. 💚
+## Redes Sociales:
+
+No olvides suscribirte, darle like, y compartir  para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
+
+#RedesCisco #ProyectoDeRedes #CiscoPacketTracer 🌐💻📡
 
 1-🎬 Youtube: https://www.youtube.com/@JuancitoPenaV 
 2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
@@ -42,6 +48,7 @@ Este proyecto está bajo la Licencia MIT, lo que significa que puedes usar, modi
 4-📷 Instagram: https://www.instagram.com/juancito.pena.v/
 5-📑 Facebook: https://www.facebook.com/juancito.p.v
 6-🐦 Twitter: https://twitter.com/JuancitoPenaV
+7-📰 https://advisertecnology.com
 
 
 ¡Gracias por tu interés en el proyecto! No dudes en contactarme si tienes alguna pregunta o sugerencia.
