@@ -59,17 +59,24 @@ Este proyecto está bajo la Licencia MIT, lo que significa que puedes usar, modi
 ---
 ## Redes Sociales:
 ---
-No olvides suscribirte, darle like, y compartir  para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
+No olvides suscribirte, darle like, y compartir este video para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
 
 #RedesCisco #ProyectoDeRedes #CiscoPacketTracer 🌐💻📡
 
-1-🎬 Youtube: https://www.youtube.com/@JuancitoPenaV 
-2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
-3-📰 Blog: https://advisertecnology.com/
-4-📷 Instagram: https://www.instagram.com/juancito.pena.v/
-5-📑 Facebook: https://www.facebook.com/juancito.p.v
-6-🐦 Twitter: https://twitter.com/JuancitoPenaV
-7-📰 https://advisertecnology.com
+1. 🎬 **YouTube**: [@JuancitoPenaV](https://www.youtube.com/@JuancitoPenaV)
+
+2. 👨‍💼 **LinkedIn**: [Juancito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
+
+3. 📰 **Blog**: [Adviser Tecnology](https://advisertecnology.com/)
+
+4. 📷 **Instagram**: [@juancito.pena.v](https://www.instagram.com/juancito.pena.v/)
+
+5. 📑 **Facebook**: [Juancito Peña V](https://www.facebook.com/juancito.p.v)
+
+6. 🐦 **Twitter**: [@JuancitoPenaV](https://twitter.com/JuancitoPenaV)
+
+7. 📰 **Blog**: [Adviser Tecnology](https://advisertecnology.com/)
+
 
 
 ¡Gracias por tu interés en el proyecto! No dudes en contactarme si tienes alguna pregunta o sugerencia.
