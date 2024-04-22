@@ -37,10 +37,10 @@ Este proyecto es ideal para aprender y practicar habilidades básicas en desarro
 ## Cómo Clonar el Repositorio
 
 Puedes clonar el repositorio para explorar el código y experimentar con tus propias modificaciones. Para clonar el repositorio, usa el siguiente comando:
-
-```bash
+---
 git clone https://github.com/tu_usuario/calculadora-basica.git
 
+--
 ## Compartir y Contribuir
 
 Te animamos a compartir este proyecto con tus amigos y colegas. Si deseas contribuir, puedes hacer un fork del repositorio y enviar pull requests con tus mejoras o correcciones. ¡Nos encantaría ver tus contribuciones!
@@ -49,6 +49,7 @@ Te animamos a compartir este proyecto con tus amigos y colegas. Si deseas contri
 
 Este proyecto está bajo la Licencia MIT, lo que significa que puedes usar, modificar y distribuir el código libremente. Para más detalles, consulta el archivo LICENSE.
 
+---
 ## Redes Sociales:
 
 No olvides suscribirte, darle like, y compartir  para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
