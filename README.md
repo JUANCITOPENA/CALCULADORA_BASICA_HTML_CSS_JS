@@ -12,6 +12,11 @@ El proyecto consta de un archivo HTML, CSS y JavaScript que trabajan juntos para
 - CSS: Estiliza y proporciona diseño a la interfaz de usuario.
 - JavaScript: Maneja la lógica de la calculadora y las interacciones del usuario.
 
+
+## Portada:
+
+![](CALCULADORA.png)
+
 ## Finalidad del Proyecto
 
 Este proyecto es ideal para aprender y practicar habilidades básicas en desarrollo web. Los temas tratados incluyen:
