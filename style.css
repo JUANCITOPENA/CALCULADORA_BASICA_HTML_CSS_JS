@@ -1,0 +1,92 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#container {
+  border: 2px solid rgb(221, 221, 221);
+  padding: 20px;
+  background: linear-gradient(to right, rgb(244, 244, 244), rgb(221, 221, 221));
+}
+
+h2, label, select, button, p {
+  margin: 20px;
+  font-size: 35px;
+  text-align: center;
+}
+
+input {
+  height: 30px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#resultado {
+  background-color: yellow;
+  padding: 10px;
+  margin: 5px;
+  font-size: 30px;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  #container {
+    width: 100%; /* Ajusta el ancho del contenedor para ocupar toda la pantalla */
+    padding: 15px; /* Disminuye el padding para dispositivos móviles */
+  }
+
+  h2 {
+    font-size: 28px; /* Reduce el tamaño de la fuente */
+    text-align: center;
+  }
+
+  label, select, button, p {
+    font-size: 18px; /* Reduce el tamaño de la fuente */
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+  }
+
+  input {
+    font-size: 16px; /* Ajusta el tamaño de la fuente para inputs */
+    width: 90%; /* El input toma todo el ancho disponible */
+    text-align: center;
+    color: rgb(3, 3, 40);
+  }
+
+  button {
+    padding: 8px; /* Reduce el tamaño de los botones */
+  }
+
+  #resultado {
+    font-size: 20px; /* Reduce el tamaño de la fuente */
+  }
+}

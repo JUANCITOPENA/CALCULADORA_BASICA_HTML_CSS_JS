@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="shortcut icon" href="https://i.pinimg.com/originals/5a/24/40/5a244074aa15d10351f523258429e5bf.png" type="image/x-icon">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora JS</title>
+  <link type="text/css" rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div id="containe">
+
+    <h2>Calculadora Básica:</h2>
+
+    <label for="valor1">Ingresa el primer valor: </label>
+    <input placeholder="Numero 1" type="number" id="valor1">
+    <br>
+    <label for="valor2">Ingresa el segundo valor:</label>
+    <input placeholder="Numero 2" type="number" id="valor2">
+    <br>
+    <p>Selecciona la operación:</p>
+    <select id="operacion">
+      <option value="sumar">Sumar</option>
+      <option value="restar">Restar</option>
+      <option value="multiplicar">Multiplicar</option>
+      <option value="dividir">Dividir</option>
+    </select>
+
+    <button onclick="calcular()">Calcular</button>
+
+    <!-- Espacios donde se mostrarán los resultados -->
+    <p id="resultado"></p>
+
+  </div>
+
+<script src="script.js"></script>
+<script src="test.js"></script>
+</body>
+
+</html>
