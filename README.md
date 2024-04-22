@@ -12,6 +12,12 @@ El proyecto consta de un archivo HTML, CSS y JavaScript que trabajan juntos para
 - CSS: Estiliza y proporciona diseño a la interfaz de usuario.
 - JavaScript: Maneja la lógica de la calculadora y las interacciones del usuario.
 
+## Visitar el Sitio
+
+Puedes ver la calculadora en acción haciendo clic en el siguiente enlace:
+
+[Visitar este Sitio](https://juancitopena.github.io/CALCULADORA_BASICA_HTML_CSS_JS/)
+
 
 ## Portada:
 ---
