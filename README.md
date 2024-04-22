@@ -17,6 +17,14 @@ El proyecto consta de un archivo HTML, CSS y JavaScript que trabajan juntos para
 
 ![](CALCULADORA.png)
 
+## Portada Valores Vacios:
+
+![](CALCULADORA1.png)
+
+## Portada Division entre o:
+
+![](CALCULADORA21.png)
+
 ## Finalidad del Proyecto
 
 Este proyecto es ideal para aprender y practicar habilidades básicas en desarrollo web. Los temas tratados incluyen:
