@@ -39,7 +39,7 @@ Este proyecto es ideal para aprender y practicar habilidades básicas en desarro
 Puedes clonar el repositorio para explorar el código y experimentar con tus propias modificaciones. Para clonar el repositorio, usa el siguiente comando:
 
 ---
-git clone https://github.com/tu_usuario/calculadora-basica.git
+git clone https:https://github.com/JUANCITOPENA/CALCULADORA_BASICA_HTML_CSS_JS.git
 
 ---
 ## Compartir y Contribuir
