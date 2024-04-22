@@ -61,8 +61,6 @@ Este proyecto está bajo la Licencia MIT, lo que significa que puedes usar, modi
 ---
 No olvides suscribirte, darle like, y compartir este video para ayudarnos a seguir creando contenido como este. ¡Vamos a comenzar! 😊📡
 
-#RedesCisco #ProyectoDeRedes #CiscoPacketTracer 🌐💻📡
-
 1. 🎬 **YouTube**: [@JuancitoPenaV](https://www.youtube.com/@JuancitoPenaV)
 
 2. 👨‍💼 **LinkedIn**: [Juancito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
